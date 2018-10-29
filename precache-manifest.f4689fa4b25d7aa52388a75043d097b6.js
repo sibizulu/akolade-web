@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/akolade-web/static/js/runtime~main.dc4abcb0.js"
   },
   {
-    "revision": "1e70d756cd06377d9652",
-    "url": "/akolade-web/static/js/main.1e70d756.chunk.js"
+    "revision": "3b9469175a0ee6b59fda",
+    "url": "/akolade-web/static/js/main.3b946917.chunk.js"
   },
   {
     "revision": "0626cb85519d1017015e",
     "url": "/akolade-web/static/js/1.0626cb85.chunk.js"
   },
   {
-    "revision": "1e70d756cd06377d9652",
+    "revision": "3b9469175a0ee6b59fda",
     "url": "/akolade-web/static/css/main.a886b721.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/akolade-web/static/css/1.3a25093a.chunk.css"
   },
   {
-    "revision": "5a52b1907449a833aaf745696ec710a3",
+    "revision": "d02244c59124b6cd8668d896927a8dd6",
     "url": "/akolade-web/index.html"
   }
 ];

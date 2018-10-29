@@ -1,7 +1,7 @@
 {
   "main.css": "/akolade-web/static/css/main.a886b721.chunk.css",
-  "main.js": "/akolade-web/static/js/main.1e70d756.chunk.js",
-  "main.js.map": "/akolade-web/static/js/main.1e70d756.chunk.js.map",
+  "main.js": "/akolade-web/static/js/main.3b946917.chunk.js",
+  "main.js.map": "/akolade-web/static/js/main.3b946917.chunk.js.map",
   "static/css/1.3a25093a.chunk.css": "/akolade-web/static/css/1.3a25093a.chunk.css",
   "static/js/1.0626cb85.chunk.js": "/akolade-web/static/js/1.0626cb85.chunk.js",
   "static/js/1.0626cb85.chunk.js.map": "/akolade-web/static/js/1.0626cb85.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.3a25093a.chunk.css.map": "/akolade-web/static/css/1.3a25093a.chunk.css.map",
   "static/css/main.a886b721.chunk.css.map": "/akolade-web/static/css/main.a886b721.chunk.css.map",
   "index.html": "/akolade-web/index.html",
-  "precache-manifest.f63d04503514ff88387cd52f897668eb.js": "/akolade-web/precache-manifest.f63d04503514ff88387cd52f897668eb.js",
+  "precache-manifest.f4689fa4b25d7aa52388a75043d097b6.js": "/akolade-web/precache-manifest.f4689fa4b25d7aa52388a75043d097b6.js",
   "service-worker.js": "/akolade-web/service-worker.js"
 }

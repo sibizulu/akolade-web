@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/akolade-web/precache-manifest.f63d04503514ff88387cd52f897668eb.js"
+  "/akolade-web/precache-manifest.f4689fa4b25d7aa52388a75043d097b6.js"
 );
 
 workbox.clientsClaim();
